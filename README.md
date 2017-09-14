@@ -16,3 +16,7 @@ https://github.com/saahil1292/Titanic_Machine_Learning
 * ### Text Analysis On Chatbot Dataset:
 To Classify all the messages into correct labels based on the words used.
 https://github.com/saahil1292/haptik_project
+
+* ### Recommendation System on Sub-Reddit Dataset
+A recommendation system is created for all the users which are follwing certain sub-reddits. The approach is popularity based as well item-item based.
+https://github.com/saahil1292/Recommendation_System
