@@ -20,3 +20,11 @@ https://github.com/saahil1292/haptik_project
 * ### Recommendation System on Sub-Reddit Dataset
 A recommendation system is created for all the users which are follwing certain sub-reddits. The approach is popularity based as well item-item based.
 https://github.com/saahil1292/Recommendation_System
+
+* ### Indian Liver Patients Dataset
+Classification of a health domain dataset into patients who is having liver diseases.
+https://github.com/saahil1292/indian_liver_patients
+
+* ### Indian Startups
+ Exploratory Data Analysis of Indian startups.
+ https://github.com/saahil1292/indian_startup
